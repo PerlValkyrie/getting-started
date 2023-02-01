@@ -1,0 +1,1 @@
+["^ ","~$greet",["^ ","~:row",27,"~:col",1,"~:fixed-arities",["~#set",[2]],"~:name","^0","~:ns","~$kata","~:top-ns","~$getting-started.core","~:arities",["^ ","~i2",["^ ","~:ret",["^4",["~:string"]],"~:arglist-str","[name_ owner]"]],"~:type","~:fn"],"~:filename","C:\\Users\\Randy\\getting-started\\src\\getting_started\\core.clj"]
